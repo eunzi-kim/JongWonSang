@@ -1,8 +1,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Title from "./Components/Navigation/Title";
-import Nav from "./Components/Navigation/Nav";
+import Navigation from "./Components/Navigation/Navigation";
 
 import Main from "./Components/Main/Main";
 import KLeague1 from "./Components/KLeague/KLeague1";
@@ -17,8 +16,7 @@ import "./App.css";
 function App() {
   return (
     <BrowserRouter>
-      <Title />
-      <Nav />
+      <Navigation />
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="/k-league/1" element={<KLeague1 />} />
