@@ -253,5 +253,242 @@
       "mascot_cnt": 2,
       "mascot_img": "https://w.namu.la/s/4cd666969cb8d2d9e2a8d41abed93f3136909848e8389ccd4ab08635d061db01dd0f095231ef158355c083cda072e9b4f403d36777b10cb29d0caf9db525707ea41d7f0f3e94691aef7b17217dde599836c1bb178fa42f7000351b38d598dc76e5d46fc08041cef30519b8dcf165ea64"
     }
+  ],
+  "2": [
+    {
+      "id": 13,
+      "name": "경남 FC",
+      "full_name": "경남도민프로축구단",
+      "eng_name": "Gyeongnam Football Club",
+      "logo_img": "https://w.namu.la/s/6196ae4f980496fcada2b3d5b68026710e999871f90725650b352e22d45b04d6d42e6c0c03feaf583aa64a967c164c2437975ddd290b3b49cd8329ac37bff1cd1c09b2d9bf2500271d3f7f34b20049fe07ca32a5ff378eebca7e9958206a4c22",
+      "start_date": "2006-01-17",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 1,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["군함이", "경남이"],
+      "mascot_cnt": 2,
+      "mascot_img": [
+        "https://w.namu.la/s/8f8947e80a15c9548852d4ae4b1679a5279a56515054a65aa3cccce7fb9b2689efeb00e96856b9fe235a0a35c8c0c8bc7a74d20839f8fa076ff29f2a02527ea7dc376acee0feebf241c67f4af3d85a1bb068d6322325f6d0ab183cc5cf8eaf504e653a506c3793819c05f9e975abd390",
+        "https://w.namu.la/s/0b136ee03293e4279892e6b03356aec63dc04da09dc8f9572dae592ffc6811c40c242fc1ce4a23a8d19e6ec69894cdf60488a515066a80f300f274231a6d5d2b0476096d7f703cc6c67c894ba5e004d4cf83f008c144d7b93666b049b5a285ee"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "광주 FC",
+      "full_name": "광주시민프로축구단",
+      "eng_name": "Gwangju Football Club",
+      "logo_img": "https://w.namu.la/s/f63c438c55052a52bf910bb7ce30d761c396cf091ec634e8ef4d833d78463b43d16e894afa5e47e038ba306f3838aa1c46fe39361bbc6d2cb610c5df2ef35aefbe13911116be32571fdf4a54396da0952ea40002676c56f97d72e1350147c98d",
+      "start_date": "2010-04-05",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 1,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["보니", "화니"],
+      "mascot_cnt": 2,
+      "mascot_img": "https://w.namu.la/s/f17eb9beff16df7d24c8b293943e6787f3b677983d3cdaba6d0be076854d0cf7b0b18a1c2dff31292add1e631769dd8b7f9132f4dc48f5d720d4b7f20a018c81e4aae8f5beb2fd656144de79f02642dbf671218b714f1fe311f37c3df25fb37e"
+    },
+    {
+      "id": 15,
+      "name": "김포 FC",
+      "full_name": "김포FC프로축구단",
+      "eng_name": "Gimpo Football Club",
+      "logo_img": "https://w.namu.la/s/88bc50b367195d29dc330ace6cb6dfc784f0bb3a90136f6d3949e862b15c9126d04c5cfbe594d1ab24b59db1a79dab127a1d533e6263be6950d401bcef687f7d195e9175d8dc05681cf1ad9ad15278347552b460cec3baf1244f8abf5269af07",
+      "start_date": "2013-01-29",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": "",
+      "mascot_cnt": 0,
+      "mascot_img": ""
+    },
+    {
+      "id": 16,
+      "name": "대전 하나 시티즌",
+      "full_name": "대전하나시티즌축구단",
+      "eng_name": "Daejeon Hana Citizen Football Club",
+      "logo_img": "https://w.namu.la/s/64c67da6beb0c565fbbc1a27ccb192b5a45bb53bc3fa8a4e7deb57801591e6dd8529a707c517c2a22d9d320348961f84ee99a0467a8b9c4c74e57f305a0bb5367e911e6fb8dad32c905d3f30945c95fa066137ac48440da0400d263731e5f94c",
+      "start_date": "1997-03-12",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 1,
+        "fa": 1,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["대전이", "자주", "사랑이"],
+      "mascot_cnt": 3,
+      "mascot_img": "https://w.namu.la/s/944c40c050737b2bee320a57354e6a95d6ad672c031ac94b037dda563edc6319d8e039bba7c10b4afbebff3d350bea252d96cf8289731677829e2b586b4ee44c5c5546817418089da10b4b7545bc6c454428608210308b65ea22f3102bacbc8e2cd3047cb034e1195e5846c56d126216"
+    },
+    {
+      "id": 17,
+      "name": "부산 아이파크",
+      "full_name": "부산아이파크축구단",
+      "eng_name": "Busan I Park Football Club",
+      "logo_img": "https://w.namu.la/s/efc17f8d0a05b6a6de743a4ebfb266a1c2e706108f4cc493b9e0b2405a454b4791946a0238fee0caeb6dad2336d60773a9c55ef893a70490af0b5ba94651d0ef105c401ce2e62607feffecf04c4b76f8a346c3b83a22fa89c663e2868326ed61",
+      "start_date": "1979-11-22",
+      "champion": {
+        "k_league_1": 4,
+        "k_league_2": 0,
+        "fa": 1,
+        "league_cup": 3,
+        "super_cup": 0,
+        "afc": 1,
+        "asian_super_cup": 0
+      },
+      "mascot": ["똑디", "해라"],
+      "mascot_cnt": 2,
+      "mascot_img": [
+        "https://w.namu.la/s/e5b8b2866688a26444bdf309666be07c7837631b06207603bc7ff104212c202297648884066bc6d87fd39f0ef16968d04c8ecc6b3f5f7ed9195937faab7b12aa5da3457ab796506c4d358debba73ceccab9404f50e48861eb1bbecedb5799f8e",
+        "https://w.namu.la/s/69017067ca517aec086384a00bb6096a01db87e0aa56a6b1ef13881b77f9d6d8a7262ef5acd5ed0ae5cb4f626b699a6f310a4b334cbb6da9040df5fff0ee0580f8eb486eb33b5ceed944fee486f8e21aa23564e4f05791ad4af824ca9df33cd03b0bf73aeb7bf0ac5872a064deeeebad"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "부천 FC 1995",
+      "full_name": "부천FC1995",
+      "eng_name": "Bucheon Football Club 1995",
+      "logo_img": "https://w.namu.la/s/1533f6a13959231b1cdf23527e6cd97310967ee36369e0111b1516f4624c68a1d760e3bd7c5dcd1083fa1da60390f25ccef0758dd56771a5f32f22f8c7f352d4590ff1d08cd23c37b8e16949ea604dee1632a1ad6ad00303823cfbd874fb73e4",
+      "start_date": "2007-12-01",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["헤르", "보라"],
+      "mascot_cnt": 2,
+      "mascot_img": [
+        "https://w.namu.la/s/5ea1b1d3b859c1c61afc3ab7a369751f6981771f439c1599f68723ca626feb616cd658c6c7357168ab16a982c0d7c34c780792a9d93e6bd4b102ab290d2780d89dacd361b00431904762566a42ff1571211fa9ca5507bdba72945a8848ce9a66",
+        "https://w.namu.la/s/142b0866d13fafe0544edc7135630e48e97cbeb82d63099250a0a80a9f0bd631d2dfd4568a71e069577c8f78c9379d5cad936f2721303c4c568d5d3ae3d97680477c4409aeded8ca4ff734244f651ba60157b371411a9a5bc6cbd8d79632187e"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "서울 이랜드",
+      "full_name": "서울이랜드축구단",
+      "eng_name": "Seoul E Land Football Club",
+      "logo_img": "https://w.namu.la/s/945b72a06b6a597eeb5df80512a3222891e63a495bd866489537b0b4703257c936902257d1007cca654c0f5daa44df7091b9038089dd3f6a8426cc769fa89f97972330993345ac5ad4d70c472f8a66360f4ff0566cc536fb124eb6444928fed1",
+      "start_date": "2014-04-14",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["레울", "레냥"],
+      "mascot_cnt": 2,
+      "mascot_img": [
+        "https://w.namu.la/s/8022fc08d1e37dae75f235fd68325458a2203fae8cb7cfc5b33362cb0be58231b9fff94eb45762ec131ac2e91b407d7d8dafc967baa100e21269fa2112162959b71cf32b91744f92f8b7d926c51cc1a9f135c31ca61e87ba11781a38125077502b125925482353376ec5893e6e3b80c8",
+        "https://w.namu.la/s/0c58f02ab5f0cc7a14a5a840e187efa81fc98bcf9b9cfaf7ebcf2ba34d71e1fcfca8e802ce1567789f8a3541d17702e18ff56c4d5ac6f9b9e9b7679a2325323b694717d12ebf924f353b81e2074a459a8bbf07562f9ca1eab0080b3006484dd6"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "안산 그리너스 FC",
+      "full_name": "안산시민프로축구단",
+      "eng_name": "Ansan Greeners Football Club",
+      "logo_img": "https://w.namu.la/s/a11ce8ed48a16e289c2df482c9cab408ab43cc346424ddc27c82854d832a92ffdc6b3396ea667c7baba477d0067c03076b42101c92330118c1f92035536f698beb06ca58faeb4e906865b305f1c3ff19d84bd1c1dca1ffb1004d7717b6ecbf6b",
+      "start_date": "2017-02-21",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["다니", "로니"],
+      "mascot_cnt": 2,
+      "mascot_img": "https://w.namu.la/s/7c31e930d8f147f8de701dd1f02468452f3b14b9b367da0f3599172fc4ec1398dc96773d5ca8a6f14df45a67e05e220a282f72e1619ad4ef6a3b56190e0a02640d8ac90712d2a397c10e4c8fd3f86ff80b648d195e797ef5467b66f5bba110e704620a812da6309476b0fdb914d9d5ff"
+    },
+    {
+      "id": 21,
+      "name": "FC 안양",
+      "full_name": "안양시민프로축구단",
+      "eng_name": "Football Club Anyang",
+      "logo_img": "https://w.namu.la/s/1d3cce19e43939c2e7227200b72f7eb6915993c33dee208980f161417e3f358a82c0e30b709921b1b9bfa1912b50d1064c45855863fcc544ac83cb20a5f5ea67958418413d0b5fda18bd75a3b13e105a32bc1fca2dc71a753bb88e217bb7fae8",
+      "start_date": "2013-02-02",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["바티", "나리"],
+      "mascot_cnt": 2,
+      "mascot_img": "https://w.namu.la/s/3af7fb8e9dc64678a941d1708fb74980b2faf45980fa51553ff2f6115e230ba7a7c6c3a38855e6a4d3a39693f1988731a67dced246e4b8f9ea34511a972dadf940851772cfb2a8b61ff33801e1f461d60c4585be05c38d677df37cd03c8d9e2a"
+    },
+    {
+      "id": 22,
+      "name": "전남 드래곤즈",
+      "full_name": "전남드래곤즈축구단",
+      "eng_name": "Jeonnam Dragons Football Club",
+      "logo_img": "https://w.namu.la/s/69da074ecf2d47ac83143d6808bd89de06ae126d148b7ea054562c6df70f10fc58d7e4bfc46078868c70e3b1f1a2e144dde8e697284960f5a373c12970a8b0943f65da25e0ea3ba82c3dc95735c0242d4a3c243ccac52f2926b85e612ac7b3fb",
+      "start_date": "1994-12-16",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 4,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": "철룡이",
+      "mascot_cnt": 1,
+      "mascot_img": "https://w.namu.la/s/797c5df7bf98be711da4dd3713b5b749e1cb7f6014d5555b2415586353d1599a187ae5a0a54bcc191a3f938ef614322989d976609895b1d78d0e94461394e66117c3428772215548b7f2e4d7ed360fd349f79ac900706505b28ae5f7f99372641f72330c02d914035da4f90fddcd3875"
+    },
+    {
+      "id": 23,
+      "name": "충남 아산 FC",
+      "full_name": "충남아산프로축구단",
+      "eng_name": "Chungnam Asan Football Club",
+      "logo_img": "https://w.namu.la/s/6bbcd48a99fc38c0039eb4680763ceb88a8bb193f4c455250dc88e895d3ece9e707a767cb107645d32e35c4dc34e1fbe09150174315e71f38cd193ffab0d0957c6b1b1181c98cbd2c43dd4bb7a7c34807daa81108c589618685e25a1d6383872",
+      "start_date": "2020-02-07",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["붱붱이", "티티"],
+      "mascot_cnt": 2,
+      "mascot_img": [
+        "https://w.namu.la/s/c28554b13326bae75a3dd52ef79fc84a3d7aba47f155c007a85b8976ea753acf484d6b86345f2aaddb1860c7eb143497297ad178ff1897bcd075403d1b996c8c4bc1713c126dc56e1774b456f4ed7ea943d6960d860105371718890cd862bb26642069616d19559b78242b78f00f1271",
+        "https://w.namu.la/s/c28554b13326bae75a3dd52ef79fc84a3d7aba47f155c007a85b8976ea753acf484d6b86345f2aaddb1860c7eb143497297ad178ff1897bcd075403d1b996c8c4bc1713c126dc56e1774b456f4ed7ea943d6960d860105371718890cd862bb26642069616d19559b78242b78f00f1271"
+      ]
+    }
   ]
 }

@@ -4,6 +4,7 @@ import TeamInfo from "../../JsonFiles/TeamInfo.json";
 import PlayInfo from "../../JsonFiles/PlayHistory22.json";
 
 function KLeague1() {
+  let kLeague1 = TeamInfo["1"];
   let [teamKleague1, setTeamKleague1] = useState([]);
 
   useEffect(() => {
@@ -19,7 +20,7 @@ function KLeague1() {
   const onSortName = () => {
     deleteSortPick();
     document.querySelector(".sort-name").classList.add("sort-pick");
-    let tempName = teamKleague1.concat();
+    let tempName = kLeague1.concat();
     tempName.sort(function (a, b) {
       if (a.name > b.name) return 1;
       if (a.name < b.name) return -1;
@@ -31,7 +32,7 @@ function KLeague1() {
   const onSortChampion = () => {
     deleteSortPick();
     document.querySelector(".sort-champion").classList.add("sort-pick");
-    let tempChampion = teamKleague1.concat();
+    let tempChampion = kLeague1.concat();
     tempChampion.sort(function (a, b) {
       return b.champion.k_league_1 - a.champion.k_league_1;
     });
@@ -41,7 +42,7 @@ function KLeague1() {
   const onSortScore = () => {
     deleteSortPick();
     document.querySelector(".sort-score").classList.add("sort-pick");
-    let tempPlayInfo = PlayInfo.concat();
+    let tempPlayInfo = PlayInfo["1"].concat();
     let tempScore = [];
     tempPlayInfo.sort(function (a, b) {
       let score_a = a.win * 3 + a.tie * 1;
