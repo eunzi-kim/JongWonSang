@@ -21,9 +21,9 @@ function App() {
         <Route path="/" element={<Main />} />
         <Route path="/k-league/1" element={<KLeague1 />} />
         <Route path="/k-league/2" element={<KLeague2 />} />
-        <Route path="/k-league/detail" element={<Detail />} />
+        <Route path="/team/:id" element={<Detail />} />
         <Route path="/my-team" element={<MyTeam />} />
-        <Route path="/my-team/detail" element={<Detail />} />
+        <Route path="/team/:id" element={<Detail />} />
         <Route path="/scrap" element={<Scrap />} />
         <Route render={({ location }) => <Notfound />} />
       </Routes>

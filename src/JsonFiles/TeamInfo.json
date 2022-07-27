@@ -1,0 +1,257 @@
+{
+  "1": [
+    {
+      "id": 1,
+      "name": "강원 FC",
+      "full_name": "강원도민프로축구단",
+      "eng_name": "Gangwon Football Club",
+      "logo_img": "https://w.namu.la/s/7f6c11e774fa5ccaa0d646edc0945615589175690564d49b92b4ab71d15718bebefc9dc8e2961f5e362d90a97b7f6097b141d9793e80ea596d23ebaf9780601bec43d92e1667d3379aa121c6cf7ecf4398c6bb49cd6c7c1e90f53f4618e983d3",
+      "start_date": "2008-12-18",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": "강웅이",
+      "mascot_cnt": 1,
+      "mascot_img": "https://w.namu.la/s/8a48b62fd394d9cd6314dbd65f729a7c1d81493b0d3e3ad63ad382624fdbc16b031e163bc6773b0fe6cf4b64dff87f3ba06631926f41b2875c5f097272e8610be1bc38f290e49262fedf05837b86092bc0a15eaf5976ab7c29d82a86eb9f2fa32ea3cdc1678710b303988e8eae6fd832"
+    },
+    {
+      "id": 2,
+      "name": "김천 상무",
+      "full_name": "김천상무프로축구단",
+      "eng_name": "Gimcheon Sangmu Football Club",
+      "logo_img": "https://w.namu.la/s/524c18b02200e55b13458d4f8bcf7db57025a5a54364cdc5711a2506f4786e1a97599b6ef341187f37b16b9dc490d16c07cab6f60b6e91fd9e02697911216fc4409b40da1e99ea2221357abb74f9893f0963e755e7b2fe16d1263edd7fc3fdd7",
+      "start_date": "1984-01-11",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 3,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": "슈웅",
+      "mascot_cnt": 1,
+      "mascot_img": "https://w.namu.la/s/0ab37bbe27d43c26d92744c5744070b5fa6f4d9a350009749b1a3c06a8073339dd98f318f0457e591c6b501890e19386f1024717ed676c42553bae09177cd5f041aaf2408c63b4c51a43f394dda573e9856bd7af15dbbf1e4404219e041f2160"
+    },
+    {
+      "id": 3,
+      "name": "대구 FC",
+      "full_name": "대구시민프로축구단",
+      "eng_name": "Daegu Football Club",
+      "logo_img": "https://w.namu.la/s/cd8be415be6742d570f2b5c521812cae31ddeb68cd64af5f61323a80338bc392fa0e0a87f123d5dd50cec0104a36d08e37976963bb3f5027b1016fc4f8e8e96d801294d7389e5eb13dba2e4b799b3556cb5a8fed8b7f7acdb410f7880697e1ef",
+      "start_date": "2022-10-09",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 1,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["빅토, 리카"],
+      "mascot_cnt": 2,
+      "mascot_img": [
+        "https://w.namu.la/s/b2f143bf99421db2349e483857b386432daa4a8d52dbade462958e8885aca35ec2ef5cf8b58c7b5d98ff9a80d658bb6ac09a21f5a465e0eff03c99206f069761c99afc9adfdf146d6de92cc16f7f22dafab3d03a245f2dd6e76751d4c72403e3",
+        "https://w.namu.la/s/066d5490ae642047e1743df97d7c81af0fdba2ddac44a477c2326dd581fb9b91feecee20a7657b51ca33bf90038afd2914546b2e20c75a0431d5187a65257ddf93fb79cff4237e2b16166ff2edb4ff55f0c948ac0dee36fa8a16aac044f4cda4"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "FC 서울",
+      "full_name": "FC서울프로축구단",
+      "eng_name": "Football Club Seoul",
+      "logo_img": "https://w.namu.la/s/6426dcdf4aeb70c49347b20f2ada021ddda930eda8f15caeabd57ada5cf82f08d657d7d67fb0b4994016d37d25ed0823952b352c6dbdfdbebe16fd15ed17a83daa8e2c84c8d955d244eddc0efc30247457f199c1ecb7286bc830dd0135471379",
+      "start_date": "1983-12-22",
+      "champion": {
+        "k_league_1": 6,
+        "k_league_2": 0,
+        "fa": 2,
+        "league_cup": 2,
+        "super_cup": 1,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": "씨드",
+      "mascot_cnt": 1,
+      "mascot_img": "https://w.namu.la/s/822d60fa2c8c1fcdd5447522a32463306ef54fdfd6f48b13fd63b1dd440d9a6070c8f99f5bc71def762efca2da88c1c921f613f0a3e81d82ecb489ffd7e515c29ba3b486f11fbc664aed792369046fc80fdee3a52a22a76cfe0b1e713ee185ba5b8fcda8dd034830775548e27505050c"
+    },
+    {
+      "id": 5,
+      "name": "성남 FC",
+      "full_name": "성남시민프로축구단",
+      "eng_name": "Seongnam Football Club",
+      "logo_img": "https://w.namu.la/s/f6855164a853a7e2ee6e63058c4e524b07b8e9223f4d418b1d4fda9227fd9d65e06e8d3fb78ef079097abf6cdc5eef2250674e05b6174b19c439ca79d915dae3a176e60aa02167fcad8072cbb20cefee967bd71c92a624ab5625ea77d4534479",
+      "start_date": "1989-03-18",
+      "champion": {
+        "k_league_1": 7,
+        "k_league_2": 0,
+        "fa": 3,
+        "league_cup": 3,
+        "super_cup": 1,
+        "afc": 2,
+        "asian_super_cup": 1
+      },
+      "mascot": ["까오, 까비"],
+      "mascot_cnt": 2,
+      "mascot_img": [
+        "https://w.namu.la/s/53bddc2293615dec6ee70bf2683e620802bb5b811e4258b3f7e0a8860b6d843090892fc2194573968c2cce703fd189dc39664c053d8020ff0b8523230fb22105d02192d9e17a1a96055ad0aabc097b254f32e4b0c4ed3c33cb9f6fc634c1292a",
+        "https://w.namu.la/s/a39fdc90821f560dcf3cde37044830d30193f8aefd12371ceba6446537199e92e283978f7191d70c7f9c96eea34c24cafe23c2520adbf5f577cbca03b62e0bafa3faf355db8257ad427698686698e15ae6bf59fab79ea2be11dc260797784b77"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "수원 삼성 블루윙즈",
+      "full_name": "수원삼성블루윙즈축구단",
+      "eng_name": "Suwon Samsung Bluewings Football Club",
+      "logo_img": "https://w.namu.la/s/e95a2f58a7aae9148362941be1dc45926bff6ddac0b2d849261f67c008ce3cbde85a244393b7dd7fdd2c70e1d1b719d1f7631141a9dded02a0d9d76a4794d8a8d23ab96c3959d703f6e7c5b28cc17708f1c28151f1540274cfe2d3bdd1970477",
+      "start_date": "1995-12-15",
+      "champion": {
+        "k_league_1": 4,
+        "k_league_2": 0,
+        "fa": 5,
+        "league_cup": 6,
+        "super_cup": 3,
+        "afc": 2,
+        "asian_super_cup": 2
+      },
+      "mascot": "아길레온",
+      "mascot_cnt": 1,
+      "mascot_img": "https://w.namu.la/s/f0b04fda25fe3536bb886e3591d85b509a835a29041572133fe8fd4f200b5d3214237c480b091732fdb9ece799ee693fd1a34e214f363fded60d87b8a161a9a4ed62d653028e4389e2f4326ddb195941043fdf959dd3d47fc4341c63e65b361a3123f328de67e88d90f75032ee11a35c"
+    },
+    {
+      "id": 7,
+      "name": "수원 FC",
+      "full_name": "수원시민프로축구단",
+      "eng_name": "Suwon Football Club",
+      "logo_img": "https://w.namu.la/s/311e2c6644c4b883b465f69cbb437b047afce111a07dfad42f3c6b73082d576bd5e0f6caf67aea91f7d2ad4d4df88e8b22e0c5a233db5f93f33d4c11a8c2bbe7deeb76b6ed55a05a84439ddec8bfb387f982627d93f35e71734d83567f34fcad",
+      "start_date": "2003-03-15",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["화서장군", "장안장군", "팔달장군", "창룡장군"],
+      "mascot_cnt": 4,
+      "mascot_img": "https://w.namu.la/s/1db63e19c83c1691874852cbc832077551fd3d98134fc58294e037f6d61f823b6c7a9daaf2ef3d2613bd9dd7dc148a20cf3de31ad3cc559cb913e29907ba542a7610985aa06e655de8f4f8d6172f49a6519e0e3121367064ba46fe35cec5fd815edae528889364c7eb23c0d3af927631"
+    },
+    {
+      "id": 8,
+      "name": "울산 현대",
+      "full_name": "울산현대축구단",
+      "eng_name": "Ulsan Hyundai Football Club",
+      "logo_img": "https://w.namu.la/s/b7c39695bc0af5ad6efd1145bb8507f6c0b9d098c11aa1c95e3050c068401bff8f0d530c623b601653b0a2c5ea3e56c0df3aa68c4920618404ce6b27f513ba159c11353a6016f82e3ea5aa4e21fbb3e57bfccf8432c218b227a8d7fd9812d35a",
+      "start_date": "1983-12-06",
+      "champion": {
+        "k_league_1": 2,
+        "k_league_2": 0,
+        "fa": 1,
+        "league_cup": 5,
+        "super_cup": 1,
+        "afc": 2,
+        "asian_super_cup": 0
+      },
+      "mascot": "미타",
+      "mascot_cnt": 1,
+      "mascot_img": "https://w.namu.la/s/78302fba038dfb15abe6f95f668714a18424b3d35700e7e5608e09e61658332eca01f40fc88c383e2dd15af0dc7334ac60c296aaec901e4df5993f8785c50a49773728b323be2e763827c06e5b4bb051a4915b5a878ce7b6516866aaf53ba8629ec273e1e7ef59c654dda8f14a53cb86"
+    },
+    {
+      "id": 9,
+      "name": "인천 유나이티드",
+      "full_name": "인천유나이티드프로축구단",
+      "eng_name": "Incheon United Football Club",
+      "logo_img": "https://w.namu.la/s/f91301c25514f61cbce217415eb933053e4ebc89cadc605a9ac69c512e9abf6425452e321b176d4a17cdf94270524d818a8438857bc723a0186e9912357c6c9aa80d788592b378fc31f616f3e1efa89c22eb433db0f1fe3cf3f44af477ff5b1c",
+      "start_date": "2003-12-12",
+      "champion": {
+        "k_league_1": 0,
+        "k_league_2": 0,
+        "fa": 0,
+        "league_cup": 0,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": "유티",
+      "mascot_cnt": 1,
+      "mascot_img": "https://w.namu.la/s/0eac084d73edb9401e81b7101f75b83aa4ceac77664b10817aede09ca4de37082be748aaf9f62694f1ca16e4726c8c40a1303a0f1b0409653c2437fe3dbb8ba9fe32d09fa35766c7db89dbbcab7cd299af661eb7b3e4847f5b35431328e8b1c5"
+    },
+    {
+      "id": 10,
+      "name": "전북 현대 모터스",
+      "full_name": "전북현대모터스축구단",
+      "eng_name": "Jeonbuk Hyundai Motors Football Club",
+      "logo_img": "https://w.namu.la/s/10a2090155d408c728ee9fff0802fbcc14f73781a9e2eee2e41e0cdcdd8da2ac05f51668896e6e386f7ae38545c79b8cd91e1c72eae369ad0f1b0a11eae54087e9116cafeffbef9b9cd20a6ff6eb7243beaf13b4dad56db7c66d23cb219fa3b2",
+      "start_date": "1994-12-12",
+      "champion": {
+        "k_league_1": 9,
+        "k_league_2": 0,
+        "fa": 4,
+        "league_cup": 0,
+        "super_cup": 1,
+        "afc": 2,
+        "asian_super_cup": 0
+      },
+      "mascot": ["나이티", "써치"],
+      "mascot_cnt": 2,
+      "mascot_img": [
+        "https://w.namu.la/s/d03580b7fca09fb0f63beef2af6edb1624ac84991e5202ef2c11ac165bfe8163a9a386c1389b26720633f74f85f3239c4f8b44867dafb17d8b497543cef445e7b851caa6192fd9194bfedf4cab0ac8bb298887ec9df659475d64adc7c1b1a075bf230a60f0c258444dffd99fa4e06732",
+        "https://w.namu.la/s/c32686686e644f455a8b0875da161b720f713462d082d09f46cf1fb7ff1e5d0cae6b958c857fe6175716cad79629177f331f15b3143bf73286aedf4e4932a7024cdef691aeef63a1bc7b35abb39141d2580ad985c17da48c7e2041b334eefd2baea50ec0bba42d7f024af64f27668600"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "제주 유나이티드",
+      "full_name": "제주유나이티드축구단",
+      "eng_name": "Jeju United Football Club",
+      "logo_img": "https://w.namu.la/s/635efd04b9a970f118f8b8a77788d8fb19bb779fc82bd4c2857c66369e31ab8b8bf0f33f523ac44088ff46e619a13ed7d36ba9948b8b32e3c7a6194d4aeb41ca9ca599ae304bcb81d5a05284aa2d7360d765209c5c81928dea33ca30eb5dd163",
+      "start_date": "1982-12-17",
+      "champion": {
+        "k_league_1": 1,
+        "k_league_2": 1,
+        "fa": 0,
+        "league_cup": 3,
+        "super_cup": 0,
+        "afc": 0,
+        "asian_super_cup": 0
+      },
+      "mascot": ["감규리", "한라할방", "백록이"],
+      "mascot_cnt": 3,
+      "mascot_img": [
+        "https://w.namu.la/s/1280247c83f8e3083e897c8443b223e5d009181c3121c8d1372ae63a4d159487386edcce86243da227f00948e50343f99551b5676384cd5c43b209f4c7c7fa88c0e0a573e89ebe57e01038fbd6ff0f884911b21752e04cf9ab576428f35d1737",
+        "https://w.namu.la/s/24492ca2f47097018c2728ef421adaf74d657137ed2640a6c299fae62689ff0111ad17c72fffd297c4a7d23e4fb643f61adbe361ee02778adfacf4acb68735438ae7f2752da29a23a8de144d75567bc93a41c126bd0b4070d9b6624df06c5b00",
+        "https://w.namu.la/s/ba9245e057a6e1782b53593889f74678e37a2a75ed948338828c739bc9b565e9dc26581850a30e0cb61988c6eae628e5f5aaa6c291f03cf5efeb41ba797bda80f607716e33226f36fd9e351a15566e546f5b445ef936f852c98f22854e683995"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "포항 스틸러스",
+      "full_name": "포항스틸러스축구단",
+      "eng_name": "Football Club Pohang Steelers",
+      "logo_img": "https://w.namu.la/s/ddd597a1fbb9085800bf29f1b081a9973535cd2e8375b966226ff66db821ee7095c495cc4efb364bd7ca5f49b97ebf02a037922b889cdd2a346c64a1d698572b562b45683f4eb8a0f734e0e4a46d2b59be1d74690ef16ffc0da2572d7f500c95",
+      "start_date": "1973-04-01",
+      "champion": {
+        "k_league_1": 5,
+        "k_league_2": 0,
+        "fa": 4,
+        "league_cup": 2,
+        "super_cup": 0,
+        "afc": 3,
+        "asian_super_cup": 0
+      },
+      "mascot": ["쇠돌이", "쇠순이"],
+      "mascot_cnt": 2,
+      "mascot_img": "https://w.namu.la/s/4cd666969cb8d2d9e2a8d41abed93f3136909848e8389ccd4ab08635d061db01dd0f095231ef158355c083cda072e9b4f403d36777b10cb29d0caf9db525707ea41d7f0f3e94691aef7b17217dde599836c1bb178fa42f7000351b38d598dc76e5d46fc08041cef30519b8dcf165ea64"
+    }
+  ]
+}

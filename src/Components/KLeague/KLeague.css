@@ -1,0 +1,59 @@
+.k-leauge-sort {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: bold;
+}
+
+.sort-category {
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.sort-category:hover {
+  color: #ffb6b6;
+}
+
+.sort-pick {
+  color: #ff8b8b;
+}
+
+.k-league-body {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.team {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 3.5vw;
+  cursor: pointer;
+}
+
+.team-logo {
+  width: 6vw;
+}
+
+.team-name {
+  font-size: 1vw;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .k-league-body {
+    justify-content: center;
+    margin: 1rem 0;
+  }
+
+  .team {
+    margin: 1rem;
+  }
+
+  .team-logo {
+    width: 20vw;
+  }
+}
